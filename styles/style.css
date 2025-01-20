@@ -1,0 +1,96 @@
+
+
+/* navbar-part---- */
+.navbar{
+    display: flex;
+    max-width: 1150px;
+    margin: 20px auto;
+}
+    
+.link{
+    display: flex;
+    gap: 30px;
+    margin-left: 180px;
+
+}
+
+.link li{
+    list-style: none;
+}
+
+.link a{
+    text-decoration: none;
+}
+
+
+.btn{
+    border-radius: 12px;
+    background: rgb(254, 163, 1);
+    color: rgb(255, 255, 255);
+font-family: Quicksand;
+font-size: 20px;
+font-weight: 600;
+line-height: 1px;
+letter-spacing: 0%;
+text-align: center;
+border: none;
+width: 150px;
+height:40px ;
+margin-left: 190px;
+margin-top: 10px;
+}
+
+
+.school{
+    color: rgb(17, 17, 17);
+font-family: Quicksand;
+font-size: 28px;
+font-weight: 700;
+line-height: 1px;
+letter-spacing: 0%;
+}
+
+
+.house{
+    color: rgb(254, 163, 1);
+font-family: Quicksand;
+font-size: 20px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0%;
+}
+
+
+.image{
+    height: 60px;
+
+}
+
+.about{
+    color: rgb(1, 172, 253);
+font-family: Quicksand;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: left;
+}
+.faci{
+    color: rgb(5, 212, 223);
+font-family: Quicksand;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: left;
+
+}
+.admission{
+    color: rgb(93, 88, 239);
+font-family: Quicksand;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: left;
+}
