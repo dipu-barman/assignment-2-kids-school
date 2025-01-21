@@ -499,7 +499,7 @@ margin-bottom: 50px;
 .pizza{
     color: rgb(255, 255, 255);
 font-family: Quicksand;
-font-size: 1.25rem;
+font-size: 1.20rem;
 font-weight: 400;
 line-height: 25px;
 letter-spacing: 0%;
@@ -554,6 +554,9 @@ font-weight: 500;
 line-height: 30px;
 letter-spacing: 0%;
 margin-bottom: 10px;
+}
+.kid-o{
+    max-width: 400px;
 }
 
 
@@ -688,8 +691,9 @@ letter-spacing: 0%;
     gap: 0px;
 }
 .kid-m{
-    padding-left: 30px;
+    padding-left: 25px;
     margin: 0px 10px;
+    padding-right: 20px;
 
 }
 .kid-s{
@@ -698,7 +702,13 @@ letter-spacing: 0%;
 .png{
     margin-bottom: 50px;
 }
-
+.logo{
+    margin-left:-15px ;
 }
+
+    
+}
+
+
 
 
