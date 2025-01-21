@@ -580,7 +580,7 @@ margin-bottom: 10px;
     }
     .navbar{
         
-        border-bottom: 0.5px solid rgb(254, 163, 1);
+        border: 0.5px solid rgb(254, 163, 1);
         display: flex;
         justify-content: space-between;
         width: 100%;
